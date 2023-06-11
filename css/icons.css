@@ -1,0 +1,62 @@
+.svg-default {
+  fill: var(--template-icons-background);
+}
+
+.i-anchor {
+  width: 32px;
+  opacity: 0.8;
+}
+
+.i-adress,
+.i-phone,
+.i-mail {
+  fill: #eed383;
+  width: 28px;
+}
+
+.i-magnifier {
+  width: 50px;
+  fill: #fff;
+}
+
+.i-plus {
+  width: 50px;
+  height: 50px;
+  background: url(../img/icons/plus.png) no-repeat;
+  background-size: cover;
+}
+
+
+.i-houzz {
+  opacity: 0.8;
+  width: 30px;
+  height: 30px;
+  fill: #eed383;
+}
+
+.i-instagram {
+  opacity: 0.8;
+  width: 30px;
+  height: 30px;
+  fill: #eed383;
+}
+
+.i-houzz:hover, 
+.i-instagram:hover {
+  opacity: 1;
+  fill: #eed383;
+}
+
+.i-burger {
+  width: 32px;
+  height: 32px;
+  background: url(../img/icons/burger.svg) center no-repeat;
+  background-size: cover;
+}
+
+.i-close {
+  width: 32px;
+  height: 32px;
+  background: url(../img/icons/close.svg) center no-repeat;
+  background-size: contain;
+}
